@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="host-injector" width="800">
+</div>
+
 # host-injector
 
 > Red team security tool for authorized testing only.
