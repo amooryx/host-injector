@@ -1,8 +1,8 @@
-﻿# host-injector
+# host-injector
 
 > Red team security tool for authorized testing only.
 
-`ash
+```bash
 python host_injector.py --help
 ```
 
